@@ -14,7 +14,7 @@ body {
     border-bottom: 2px solid #000000;
     border-left: 2px solid #000000;
     padding: 0px 0px 150px;
-    background: #404040;
+    background: url(page.jpg) repeat fixed;
     text-align: left;
     position: relative;
 }
@@ -229,4 +229,9 @@ header h1 {
     white-space: nowrap;
     overflow: hidden;
     color: #00FFE6;
+}
+.sidebar nav {
+    a:link {
+        color: white;
+    }
 }
