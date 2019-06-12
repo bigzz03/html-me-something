@@ -1,0 +1,155 @@
+.page-wrapper {
+    margin: 0px auto 60px;
+    width: 760px;
+    border-top: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-left: 2px solid #000000;
+    padding: 0px 0px 150px;
+    background: #404040;
+    text-align: left;
+    position: relative;
+}
+header {
+    position: relative;
+    display: block;
+}
+header h1 {
+    margin-bottom: 12px;
+    height: 186px;
+    text-align: center;
+}
+.comp {
+    margin: 10px 0px 30px 235px;
+    width: 510px;
+    border: 2px solid #000000;
+    padding: 10px 0px;
+    background: #60676F;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+.comp h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+}
+.cars {
+    margin: 10px 0px 30px 235px;
+    width: 510px;
+    border: 2px solid #000000;
+    padding: 10px 0px;
+    background: #60676F;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+.cars h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+}
+.Video-Games {
+    margin: 10px 0px 30px 235px;
+    width: 510px;
+    border: 2px solid #000000;
+    padding: 10px 0px;
+    background: #60676F;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+.Video-Games h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+}
+.Music {
+    margin: 10px 0px 30px 235px;
+    width: 510px;
+    border: 2px solid #000000;
+    padding: 10px 0px;
+    background: #60676F;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+.Music h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+}
+.coding {
+    margin: 10px 0px 30px 235px;
+    width: 510px;
+    border: 2px solid #000000;
+    padding: 10px 0px;
+    background: #60676F;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 3;
+}
+.coding h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+}
+.sidebar {
+    margin: 7em 10px 0px 12px;
+    padding: 0px;
+    width: 200px;
+    position: absolute;
+    left: 0px;
+    top: 80px;
+    z-index: 2;
+}
