@@ -1,10 +1,11 @@
 body {
     margin: 0px;
     padding: 0px;
+    background: url(background.jpg)  repeat fixed;
     color: #CCCCCC;
     font: 76% Arial, Helvetica, sans-serif;
     text-align: center;
-}
+    }
 .page-wrapper {
     margin: 0px auto 60px;
     width: 760px;
@@ -13,7 +14,7 @@ body {
     border-bottom: 2px solid #000000;
     border-left: 2px solid #000000;
     padding: 0px 0px 150px;
-    background: #404040 url(background_pattern.jpg) no-repeat center bottom;
+    background: #404040;
     text-align: left;
     position: relative;
 }
@@ -43,7 +44,8 @@ header h1 {
 .comp h2 {
     width: 400px;
     margin: 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
     font-size: 16px;
     line-height: 24px;
     text-align: left;
@@ -52,7 +54,7 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
-    color: #ECA603;
+    color: #00FFE6;
 }
 .comp p {
     padding: 0px 10px;
@@ -77,7 +79,8 @@ header h1 {
 .cars h2 {
     width: 400px;
     margin: 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
     font-size: 16px;
     line-height: 24px;
     text-align: left;
@@ -86,7 +89,7 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
-    color: #ECA603;
+    color: #00FFE6;
 }
 .cars p {
     padding: 0px 10px;
@@ -111,7 +114,8 @@ header h1 {
 .Video-Games h2 {
     width: 400px;
     margin: 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
     font-size: 16px;
     line-height: 24px;
     text-align: left;
@@ -120,7 +124,7 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
-    color: #ECA603;
+    color: #00FFE6;
 }
 .Video-Games p {
     padding: 0px 10px;
@@ -145,7 +149,8 @@ header h1 {
 .Music h2 {
     width: 400px;
     margin: 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
     font-size: 16px;
     line-height: 24px;
     text-align: left;
@@ -154,7 +159,7 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
-    color: #ECA603;
+    color: #00FFE6;
 }
 .Music p {
     padding: 0px 10px;
@@ -179,7 +184,8 @@ header h1 {
 .coding h2 {
     width: 400px;
     margin: 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
     font-size: 16px;
     line-height: 24px;
     text-align: left;
@@ -188,7 +194,7 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
-    color: #ECA603;
+    color: #00FFE6;
 }
 .coding p {
     padding: 0px 10px;
@@ -222,5 +228,5 @@ header h1 {
     height: 23px;
     white-space: nowrap;
     overflow: hidden;
-    color: #ECA603;
+    color: #00FFE6;
 }
