@@ -18,6 +18,8 @@ header h1 {
     margin-bottom: 12px;
     height: 186px;
     text-align: center;
+    color: #F2F2F2;
+    font-size: 32px;
 }
 .comp {
     margin: 10px 0px 30px 235px;
@@ -43,6 +45,15 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
+    color: #ECA603;
+}
+.comp p {
+    padding: 0px 10px;
+    margin: 0px auto;
+    color: #F2F2F2;
+    font: sans-serif;
+    letter-spacing: 0.08em;
+    text-align: left;
 }
 .cars {
     margin: 10px 0px 30px 235px;
@@ -68,6 +79,15 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
+    color: #ECA603;
+}
+.cars p {
+    padding: 0px 10px;
+    margin: 0px auto;
+    color: #F2F2F2;
+    font: sans-serif;
+    letter-spacing: 0.08em;
+    text-align: left;
 }
 .Video-Games {
     margin: 10px 0px 30px 235px;
@@ -93,6 +113,15 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
+    color: #ECA603;
+}
+.Video-Games p {
+    padding: 0px 10px;
+    margin: 0px auto;
+    color: #F2F2F2;
+    font: sans-serif;
+    letter-spacing: 0.08em;
+    text-align: left;
 }
 .Music {
     margin: 10px 0px 30px 235px;
@@ -118,6 +147,15 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
+    color: #ECA603;
+}
+.Music p {
+    padding: 0px 10px;
+    margin: 0px auto;
+    color: #F2F2F2;
+    font: sans-serif;
+    letter-spacing: 0.08em;
+    text-align: left;
 }
 .coding {
     margin: 10px 0px 30px 235px;
@@ -143,6 +181,15 @@ header h1 {
     z-index: 1;
     left: -3px;
     height: 23px;
+    color: #ECA603;
+}
+.coding p {
+    padding: 0px 10px;
+    margin: 0px auto;
+    color: #F2F2F2;
+    font: sans-serif;
+    letter-spacing: 0.08em;
+    text-align: left;
 }
 .sidebar {
     margin: 7em 10px 0px 12px;
@@ -152,4 +199,21 @@ header h1 {
     left: 0px;
     top: 80px;
     z-index: 2;
+}
+.sidebar h3 {
+    border-top: 0px #000000;
+    border-right: 1px solid #000000;
+    border-bottom: 0px #000000;
+    border-left: 0px #000000;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    line-height: 24px;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    height: 23px;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #ECA603;
 }
