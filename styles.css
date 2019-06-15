@@ -205,28 +205,26 @@ header h1 {
     text-align: left;
 }
 .sidebar {
-    margin: 7em 10px 0px 12px;
-    padding: 250px;
+    margin: 7em 1em 0;
     width: 200px;
-    position: fixed;
+    position: absolute;
     left: 0px;
     top: 80px;
     z-index: 2;
 }
 .sidebar h3 {
-    border-top: 0px #000000;
     border-right: 1px solid #000000;
-    border-bottom: 0px #000000;
-    border-left: 0px #000000;
     margin: 0px;
     padding: 0px;
     font-size: 16px;
     line-height: 24px;
-    position: absolute;
     top: 220px;
     z-index: 1;
     height: 23px;
     white-space: nowrap;
     overflow: hidden;
     color: #00FFE6;
+}
+.sidebar a {
+    color: royalblue;
 }
