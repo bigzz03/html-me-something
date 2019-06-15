@@ -41,21 +41,6 @@ header h1 {
     left: 0px;
     z-index: 3;
 }
-.comp h2 {
-    width: 400px;
-    margin: 0px;
-    padding: 0px 0px 0px 25px;
-    background: url(textbg.jpg) no-repeat left top;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    position: absolute;
-    top: -24px;
-    z-index: 1;
-    left: -3px;
-    height: 23px;
-    color: #00FFE6;
-}
 .comp p {
     padding: 0px 10px;
     margin: 0px auto;
@@ -75,21 +60,6 @@ header h1 {
     top: 0px;
     left: 0px;
     z-index: 3;
-}
-.cars h2 {
-    width: 400px;
-    margin: 0px;
-    padding: 0px 0px 0px 25px;
-    background: url(textbg.jpg) no-repeat left top;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    position: absolute;
-    top: -24px;
-    z-index: 1;
-    left: -3px;
-    height: 23px;
-    color: #00FFE6;
 }
 .cars p {
     padding: 0px 10px;
@@ -111,21 +81,6 @@ header h1 {
     left: 0px;
     z-index: 3;
 }
-.Video-Games h2 {
-    width: 400px;
-    margin: 0px;
-    padding: 0px 0px 0px 25px;
-    background: url(textbg.jpg) no-repeat left top;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    position: absolute;
-    top: -24px;
-    z-index: 1;
-    left: -3px;
-    height: 23px;
-    color: #00FFE6;
-}
 .Video-Games p {
     padding: 0px 10px;
     margin: 0px auto;
@@ -146,21 +101,6 @@ header h1 {
     left: 0px;
     z-index: 3;
 }
-.Music h2 {
-    width: 400px;
-    margin: 0px;
-    padding: 0px 0px 0px 25px;
-    background: url(textbg.jpg) no-repeat left top;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    position: absolute;
-    top: -24px;
-    z-index: 1;
-    left: -3px;
-    height: 23px;
-    color: #00FFE6;
-}
 .Music p {
     padding: 0px 10px;
     margin: 0px auto;
@@ -180,21 +120,6 @@ header h1 {
     top: 0px;
     left: 0px;
     z-index: 3;
-}
-.coding h2 {
-    width: 400px;
-    margin: 0px;
-    padding: 0px 0px 0px 25px;
-    background: url(textbg.jpg) no-repeat left top;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: left;
-    position: absolute;
-    top: -24px;
-    z-index: 1;
-    left: -3px;
-    height: 23px;
-    color: #00FFE6;
 }
 .coding p {
     padding: 0px 10px;
@@ -227,4 +152,19 @@ header h1 {
 }
 .sidebar a {
     color: royalblue;
+}
+h2 {
+    width: 400px;
+    margin: 0px;
+    padding: 0px 0px 0px 25px;
+    background: url(textbg.jpg) no-repeat left top;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    position: absolute;
+    top: -24px;
+    z-index: 1;
+    left: -3px;
+    height: 23px;
+    color: #00FFE6;
 }
